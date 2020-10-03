@@ -1,4 +1,4 @@
-# Python Fun Little Projects
+# Python Fun Projects
 
 Sample projects and solutions using **python**
 
